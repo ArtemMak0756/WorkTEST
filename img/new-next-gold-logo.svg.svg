@@ -1,0 +1,21 @@
+<svg width="86" height="24" viewBox="0 0 86 24" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="new-next-gold-logo.svg" clip-path="url(#clip0_1_772)">
+<g id="Clip path group">
+<mask id="mask0_1_772" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="86" height="24">
+<g id="a">
+<path id="Vector" d="M85.59 0H0.589966V24H85.59V0Z" fill="white"/>
+</g>
+</mask>
+<g mask="url(#mask0_1_772)">
+<g id="Group">
+<path id="Vector_2" fill-rule="evenodd" clip-rule="evenodd" d="M0.589966 2L15.0033 15.515V2.59163H18.1088V23L3.69568 9.31678V22.3749H0.589966V2ZM49.6839 2.5906L55.3833 9.79991L61.0824 2.5906L65.0975 2.59137L57.3723 12.2449L65.0975 22.3754H61.0824L55.3831 14.8556L49.6839 22.3744H45.669L53.3941 12.2439L45.669 2.5906H49.6839ZM40.4336 2.59214V5.65621H28.7928V10.9138H39.3731V13.9499H28.7928V19.3113H40.4334V22.3749H25.6874V2.59214H40.4336ZM86.1497 2.58932V5.65288H79.0272V22.3716H75.9217V5.65288H68.7993V2.58932H86.1497Z" fill="#B78B20"/>
+</g>
+</g>
+</g>
+</g>
+<defs>
+<clipPath id="clip0_1_772">
+<rect width="85" height="24" fill="white" transform="translate(0.589966)"/>
+</clipPath>
+</defs>
+</svg>
